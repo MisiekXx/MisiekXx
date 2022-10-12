@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MisiekXx
+- 👀 I’m interested in QBcore - Esx ...
+- 🌱 I’m currently learning Germany Schole ...
+- 💞️ I’m looking to collaborate on Fivem Server ...
+
+<!---
+MisiekXx/MisiekXx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
